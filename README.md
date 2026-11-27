@@ -1,9 +1,8 @@
 # Git Merge Conflict Demonstration
 
-This project demonstrates Git branching, merging,
-committing, and resolving intentional merge conflicts.
+This project demonstrates Git branching, merging and conflict resolution.
 
-Project status: Starter version
+Project Status: Calculator with Addition Support
 
 ## Features
 - Addition
